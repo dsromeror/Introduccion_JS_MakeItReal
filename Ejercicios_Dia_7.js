@@ -1,5 +1,5 @@
 //Ejercicio 35
-/*
+
 let pedro = {
     nombre : 'Pedro Perez',
     edad : 30,
@@ -11,7 +11,7 @@ console.log(pedro.edad);
 pedro.estatura = 1.8;
 delete pedro.activo;
 console.log(pedro);
-*/
+
 //Ejercicio 36
 
 function saludar(persona) {
